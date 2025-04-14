@@ -9,7 +9,7 @@
 
 <br/>
 
-
+![](https://komarev.com/ghpvc/?username=Debraj2024&color=green)
 
 - 🔭 I’m currently solving DSA with **C++** on LeetCode  
 - 🌱 I’m learning **HTML | CSS | JavaScript**  
