@@ -11,7 +11,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Debraj2024&color=green)
 
-<img align="right" alt="Coding" width="200" height="200" src="cute.gif">
+<img align="right" alt="Coding" width="100" height="100" src="cute.gif">
 
 - 🔭 I’m currently solving DSA with **C++** on LeetCode  
 - 🌱 I’m learning **HTML | CSS | JavaScript**  
