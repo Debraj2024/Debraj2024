@@ -32,12 +32,14 @@
 </p>
 
 #### Cloud & DevOps
+<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debraj2024&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+
 <p>
   <img src="https://skillicons.dev/icons?i=gcp,kubernetes" />
 </p>
 
 #### Tools & Platforms
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
 
@@ -62,13 +64,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Debraj2024&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="44.5%" src="https://github-readme-stats.vercel.app/api?username=Debraj2024&theme=dark&show_icons=true&hide_border=true&count_private=true" />
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Debraj2024&theme=dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debraj2024&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-</p>
 
 ---
 
