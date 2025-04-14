@@ -33,7 +33,6 @@
 
 #### Cloud & DevOps
 <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debraj2024&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-
 <p>
   <img src="https://skillicons.dev/icons?i=gcp,kubernetes" />
 </p>
