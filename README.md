@@ -66,7 +66,6 @@
 
 <p align="center">
   <img width="44.5%" src="https://github-readme-stats.vercel.app/api?username=Debraj2024&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="47%" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Debraj2024&theme=dark)](https://git.io/streak-stats)" />
 </p>
 
 
