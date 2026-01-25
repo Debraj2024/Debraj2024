@@ -19,11 +19,11 @@
 - 📫 Reach me at **debrajarcade@gmail.com**
 
 ---
-<img align="right" alt="Coding" width="250" height="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 #### 🛠️ Languages and Tools
 
 #### Programming Languages
+<img align="right" alt="Coding" width="300" height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,py,js" />
 </p>
@@ -34,7 +34,6 @@
 </p>
 
 #### Cloud & DevOps
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debraj2024&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 <p>
   <img src="https://skillicons.dev/icons?i=gcp,kubernetes" />
 </p>
@@ -65,7 +64,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="44.5%" src="https://github-readme-stats.vercel.app/api?username=Debraj2024&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Debraj2024&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
+    width="420"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debraj2024&theme=vue-dark&hide_border=true&layout=compact"
+    width="420"
+    height="165"
+  />
 </p>
 
 
